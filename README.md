@@ -1,0 +1,2 @@
+# IstanbulReport
+Professional IstanbulReport platform with IstanbulReport-optimized intelligent-automation and enterprise istanbulreport-optimization capabilities
